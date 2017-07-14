@@ -23,10 +23,7 @@
 
 # IntelliJ
 .iws
-.idea/workspace.xml
-.idea/tasks.xml
-.idea/gradle.xml
-.idea/dataSources.*
+/.idea/
 atlassian-ide-plugin.xml
 
 # vagrant
